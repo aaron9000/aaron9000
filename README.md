@@ -2,10 +2,10 @@
 
 My name is Aaron and I'm a product builder living in Austin. I enjoy creating things and playing disc golf. I'm currently taking a career break to work on personal projects.
 
-- 🔨[Things I have built on for fun](https://apptivus.net/pages/projects)
-- ✍️ [Extremely infrequent blog posts](https://aarongeisler.com/blog)
+- 🔨[Things I've built for fun](https://apptivus.net/pages/projects)
+- ✍️ [Infrequent blog posts](https://aarongeisler.com/blog)
 
-Happy coding!
+Happy building!
 
 
 <!--
