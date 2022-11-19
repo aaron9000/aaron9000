@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+My name is Aaron and I'm a product builder living in Austin, Texas. I enjoy creating things and playing disc golf. I'm currently taking a career break to work on personal projects.
+
+- 🔨[Things I have built on for fun](https://apptivus.net/projects)
+- ✍️ [Extremely infrequent blog posts](https://aarongeisler.com/blog)
+
+Happy coding!
+
+
 <!--
 **aaron9000/aaron9000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
